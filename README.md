@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,4 +69,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # Tic-Tac-Toe-React
 Tic Tac Toe Game Built with React
->>>>>>> c57fecc33e828f426453a2f2e48eb4da10290572
